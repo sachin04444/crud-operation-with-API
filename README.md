@@ -1,4 +1,4 @@
-# Getting Started with Create React App![Screenshot (128)](https://user-images.githubusercontent.com/110024679/203356934-7add6c69-9424-4d45-a9c3-1b4fc3a00621.png)
+# Getting Started with Create React App!
 
 
 ![Screenshot (130)](https://user-images.githubusercontent.com/110024679/203357674-dbd3589b-eb3d-4eaa-8d99-5c00a1e19863.png)
